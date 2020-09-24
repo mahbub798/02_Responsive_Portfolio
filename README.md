@@ -16,7 +16,7 @@ First, I will use the Bootstrap CSS Framework to create a mobile responsive port
 
    * Responsive images
 
-* The Bootstrap portfolio should minimize the use of media queries.
+* The Bootstrap portfolio should minimize the use of media queries.git
 
 * Used Bootstrap's grid system (containers, rows, and columns).
 
