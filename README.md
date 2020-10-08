@@ -34,5 +34,5 @@ I used the Bootstrap CSS Framework to create a mobile responsive portfolio. I fo
 The following image shows the web application's appearance and functionality:
 
 ![responsive portifolio demo](./assets/images/AboutMe.gif)
-![responsive portifolio demo](./assets/images/Portofolio.gif)
+![responsive portifolio demo](./assets/images/Portfolio.gif)
 ![responsive portifolio demo](./assets/images/Contact.gif)
